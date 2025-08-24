@@ -1,0 +1,12 @@
+# Segredos
+.env
+
+venv/
+
+db.sqlite3
+
+.venv
+
+__pycache__
+
+migrations
